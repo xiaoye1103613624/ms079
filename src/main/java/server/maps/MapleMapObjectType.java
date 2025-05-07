@@ -18,19 +18,56 @@
  You should have received a copy of the GNU Affero General Public License
  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
+
 package server.maps;
+
+/**
+ * 地图中对象类型
+ *
+ * @author 陈耀
+ */
 
 public enum MapleMapObjectType {
 
     NPC,
+    /**
+     * 怪物
+     */
     MONSTER,
+    /**
+     * 项
+     */
     ITEM,
+    /**
+     * 玩家
+     */
     PLAYER,
+    /**
+     * 传送
+     */
     DOOR,
+    /**
+     * 召唤
+     */
     SUMMON,
+    /**
+     * 商店
+     */
     SHOP,
+    /**
+     * 雾
+     */
     MIST,
+    /**
+     * 反应堆
+     */
     REACTOR,
-    LOVE, 
+    /**
+     * 爱?
+     */
+    LOVE,
+    /**
+     * 租赁
+     */
     HIRED_MERCHANT;
 }

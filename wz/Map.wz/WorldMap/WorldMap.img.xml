@@ -14,6 +14,7 @@
             <string name="title" value="彩虹岛"/>
             <string name="desc" value="新手诞生的岛，是走向冒险岛世界的所有玩家的故乡。"/>
             <imgdir name="mapNo">
+                <!--彩虹岛 蘑菇村西入口-->
                 <int name="0" value="0"/>
                 <int name="1" value="10000"/>
                 <int name="2" value="20000"/>
@@ -42,6 +43,7 @@
             <vector name="spot" x="-230" y="-67"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--射手村-->
                 <int name="0" value="100000000"/>
                 <int name="1" value="100000001"/>
                 <int name="2" value="100000100"/>
@@ -50,10 +52,12 @@
                 <int name="5" value="100000103"/>
                 <int name="6" value="100000104"/>
                 <int name="7" value="100000105"/>
+                <!--射手村公园-->
                 <int name="8" value="100000200"/>
                 <int name="9" value="100000201"/>
                 <int name="10" value="100000202"/>
                 <int name="11" value="100000203"/>
+                <!--射手村东部小山-->
                 <int name="12" value="100010000"/>
                 <int name="13" value="100020000"/>
                 <int name="14" value="100030000"/>
@@ -70,6 +74,7 @@
             <vector name="spot" x="-204" y="-93"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--魔法密林-->
                 <int name="0" value="101000000"/>
                 <int name="1" value="101000001"/>
                 <int name="2" value="101000002"/>
@@ -77,12 +82,14 @@
                 <int name="4" value="101000200"/>
                 <int name="5" value="101000300"/>
                 <int name="6" value="101000301"/>
+                <!--石人寺院入口-->
                 <int name="7" value="100040000"/>
                 <int name="8" value="100040001"/>
                 <int name="9" value="100040002"/>
                 <int name="10" value="100040003"/>
                 <int name="11" value="100040004"/>
                 <int name="12" value="100040100"/>
+                <!--魔法密林南郊-->
                 <int name="13" value="100050000"/>
                 <int name="14" value="101010000"/>
                 <int name="15" value="101010100"/>
@@ -110,16 +117,19 @@
             <vector name="spot" x="-250" y="-124"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--勇士部落-->
                 <int name="0" value="102000000"/>
                 <int name="1" value="102000001"/>
                 <int name="2" value="102000002"/>
                 <int name="3" value="102000003"/>
+                <!--巨大的树-->
                 <int name="4" value="101030000"/>
                 <int name="5" value="101030100"/>
                 <int name="6" value="101030101"/>
                 <int name="7" value="101030102"/>
                 <int name="8" value="101030103"/>
                 <int name="9" value="101030104"/>
+                <!--遗迹之墓Ⅰ-->
                 <int name="10" value="101030105"/>
                 <int name="11" value="101030106"/>
                 <int name="12" value="101030107"/>
@@ -141,6 +151,7 @@
                 <int name="28" value="102020200"/>
                 <int name="29" value="102020300"/>
                 <int name="30" value="102030000"/>
+                <!--幽深的峡谷Ⅰ-->
                 <int name="31" value="106000000"/>
                 <int name="32" value="106000100"/>
                 <int name="33" value="106000101"/>
@@ -156,6 +167,7 @@
             <vector name="spot" x="-273" y="-99"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--废弃都市-->
                 <int name="0" value="103000000"/>
                 <int name="1" value="103000001"/>
                 <int name="2" value="103000002"/>
@@ -172,7 +184,9 @@
                 <int name="13" value="103000200"/>
                 <int name="14" value="103000201"/>
                 <int name="15" value="103000202"/>
+                <!--初期发掘地区-->
                 <int name="16" value="102040000"/>
+                <!--废都北入口-->
                 <int name="17" value="102050000"/>
                 <int name="18" value="103010000"/>
                 <int name="19" value="103020000"/>
@@ -192,6 +206,7 @@
             <vector name="spot" x="-271" y="-64"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--明珠港-->
                 <int name="0" value="104000000"/>
                 <int name="1" value="104000001"/>
                 <int name="2" value="104000002"/>
@@ -213,11 +228,14 @@
             <int name="type" value="3"/>
             <string name="title" value="金银岛训练场"/>
             <imgdir name="mapNo">
+                <!--林中之城-->
                 <int name="0" value="105040300"/>
                 <int name="1" value="105040400"/>
                 <int name="2" value="105040401"/>
                 <int name="3" value="105040402"/>
+                <!--另一扇门	被诅咒的寺院-->
                 <int name="4" value="105030000"/>
+                <!--黑森林通道-->
                 <int name="5" value="105040000"/>
                 <int name="6" value="105040100"/>
                 <int name="7" value="105040200"/>
@@ -226,6 +244,7 @@
                 <int name="10" value="105040303"/>
                 <int name="11" value="105040304"/>
                 <int name="12" value="105040305"/>
+                <!--蚂蚁洞Ⅰ-->
                 <int name="13" value="105050000"/>
                 <int name="14" value="105050100"/>
                 <int name="15" value="105050200"/>
@@ -305,6 +324,7 @@
             <vector name="spot" x="-16" y="-86"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--天空之城-->
                 <int name="0" value="200000000"/>
                 <int name="1" value="200000001"/>
                 <int name="2" value="200000002"/>
@@ -327,6 +347,7 @@
                 <int name="19" value="200000201"/>
                 <int name="20" value="200000202"/>
                 <int name="21" value="200000203"/>
+                <!--遗忘的山丘-->
                 <int name="22" value="200000300"/>
                 <int name="23" value="200000301"/>
                 <int name="24" value="200010000"/>
@@ -341,6 +362,7 @@
                 <int name="33" value="200010300"/>
                 <int name="34" value="200010301"/>
                 <int name="35" value="200010302"/>
+                <!--云彩公园Ⅱ-->
                 <int name="36" value="200020000"/>
                 <int name="37" value="200030000"/>
                 <int name="38" value="200040000"/>
@@ -372,6 +394,7 @@
             <vector name="spot" x="85" y="-28"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--冰峰雪域-->
                 <int name="0" value="211000000"/>
                 <int name="1" value="211000001"/>
                 <int name="2" value="211000100"/>
@@ -387,6 +410,7 @@
                 <int name="12" value="200082100"/>
                 <int name="13" value="200082200"/>
                 <int name="14" value="200082300"/>
+                <!--冰雪山丘 左边塔出门-->
                 <int name="15" value="211000200"/>
                 <int name="16" value="211010000"/>
                 <int name="17" value="211020000"/>
@@ -423,6 +447,7 @@
             <vector name="spot" x="-51" y="7"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--玩具城-->
                 <int name="0" value="220000000"/>
                 <int name="1" value="220000001"/>
                 <int name="2" value="220000002"/>
@@ -433,6 +458,7 @@
                 <int name="7" value="220000100"/>
                 <int name="8" value="220000110"/>
                 <int name="9" value="220000111"/>
+                <!--玩具城村落-->
                 <int name="10" value="220000300"/>
                 <int name="11" value="220000301"/>
                 <int name="12" value="220000302"/>
@@ -441,6 +467,7 @@
                 <int name="15" value="220000305"/>
                 <int name="16" value="220000306"/>
                 <int name="17" value="220000307"/>
+                <!--玩具塔入口 左边-->
                 <int name="18" value="220000400"/>
                 <int name="19" value="220000500"/>
                 <int name="20" value="220010000"/>
@@ -453,6 +480,7 @@
                 <int name="27" value="220010700"/>
                 <int name="28" value="220010800"/>
                 <int name="29" value="220010900"/>
+                <!--天空露台<5>-->
                 <int name="30" value="220011000"/>
                 <int name="31" value="220020000"/>
                 <int name="32" value="220020100"/>
@@ -522,10 +550,15 @@
             <vector name="spot" x="-83" y="41"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--地球防御本部-->
                 <int name="0" value="221000000"/>
+                <!--通道 电梯那里-->
                 <int name="1" value="221000001"/>
+                <!--本部-->
                 <int name="2" value="221000100"/>
+                <!--机库-->
                 <int name="3" value="221000200"/>
+                <!--司令室-->
                 <int name="4" value="221000300"/>
                 <int name="5" value="221000400"/>
                 <int name="6" value="221020000"/>
@@ -568,11 +601,17 @@
             <vector name="spot" x="-17" y="41"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--童话村	-->
                 <int name="0" value="222000000"/>
+                <!--井口-->
                 <int name="1" value="222000001"/>
+                <!--乌山入口-->
                 <int name="2" value="222010000"/>
+                <!--乌山深处	-->
                 <int name="3" value="222010001"/>
+                <!--小山泉	-->
                 <int name="4" value="222010002"/>
+                <!--小池塘-->
                 <int name="5" value="222010100"/>
                 <int name="6" value="222010101"/>
                 <int name="7" value="222010102"/>
@@ -588,9 +627,13 @@
             <vector name="spot" x="-112" y="169"/>
             <int name="type" value="3"/>
             <imgdir name="mapNo">
+                <!--神木村 地图-->
                 <int name="0" value="240000000"/>
+                <!-- 神木村 村长之家-->
                 <int name="1" value="240000001"/>
+                <!--药水商店-->
                 <int name="2" value="240000002"/>
+                <!--亚可之家-->
                 <int name="3" value="240000003"/>
                 <int name="4" value="240000004"/>
                 <int name="5" value="240000005"/>

@@ -18,17 +18,32 @@
  You should have received a copy of the GNU Affero General Public License
  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
+
 package server.maps;
 
-public enum SavedLocationType {
+/**
+ * 保存地图类型枚举
+ *
+ * @author 陈耀
+ */
 
+public enum SavedLocationType {
+    /**
+     * 自由市场
+     */
     FREE_MARKET(0),
     MULUNG_TC(1),
     WORLDTOUR(2),
     FLORINA(3),
+    /**
+     * 钓鱼
+     */
     FISHING(4),
     RICHIE(5),
     DONGDONGCHIANG(6),
+    /**
+     * 事件
+     */
     EVENT(7),
     AMORIA(8),
     CHRISTMAS(9),
@@ -39,7 +54,7 @@ public enum SavedLocationType {
     Pachinko_port(14),
     DOJO(15),
     CYGNUSINTRO(16),
-    ENGLISH(17), 
+    ENGLISH(17),
     SLEEP(18),
     ARIANT(19),
     ARIANT_PQ(20),

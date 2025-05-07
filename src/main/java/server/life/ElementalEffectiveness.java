@@ -1,5 +1,9 @@
 package server.life;
 
+/**
+ * @author 陈耀
+ */
+
 public enum ElementalEffectiveness {
 
     正常, 免疫, 增强, 虚弱, NEUTRAL;

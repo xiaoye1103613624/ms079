@@ -20,6 +20,11 @@
  */
 package server.maps;
 
+/**
+ * 召唤动作类型
+ * @author 陈耀
+ */
+
 public enum SummonMovementType {
 
     STATIONARY(0), //octo etc
